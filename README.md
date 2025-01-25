@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Be sure to checkout [arbertrary.github.io/](https://arbertrary.github.io/) for more information about me.
+Be sure to check out my personal page at [arbertrary.github.io/](https://arbertrary.github.io/) for more information about me.
+
+I'm a computer scientist and software developer interested in Unreal Engine for scientific visualization, photogrammetry, virtual production, and web development.
 
 <!--
 **arbertrary/arbertrary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
